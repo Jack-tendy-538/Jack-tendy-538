@@ -1,5 +1,5 @@
 # 👋 你好，我是 Jack-tendy！
-__Just for joke__
+__注意！部分内容仅供娱乐__
 
 **湖南高中生开发者 | 用python解构世界**  
 > "在同学还在写作业时，我已开始构建自己的数字魔方"  
@@ -8,9 +8,9 @@ __Just for joke__
 
 ## 🎯 技术栈
 **主力语言**:  
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Expert-00599C?logo=c%2B%2B&logoColor=white)  
-![python](https://python.org)
-**探索中**: JavaScript  
+**探索中**: TypeScript  ,C#
 
 ![我的GitHub数据](https://github-readme-stats.vercel.app/api?username=jack-tendy-538&show_icons=true&hide_border=true&theme=vue)
 
@@ -22,5 +22,5 @@ __Just for joke__
 ## 🌱 学习轨迹
 | 领域        | 当前目标               |
 |------------|-----------------------|
-| 算法        | LeetCode周赛稳定前30% |
-| 游戏开发    | 用SFML复刻经典推箱子  |
+| 游戏开发    | 用SFML复刻经典推箱子(假的)  |
+| 班级前端工具开发   | 点名器(Beta)  |
