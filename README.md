@@ -18,6 +18,10 @@ __注意！部分内容仅供娱乐__
 [🔷 Rubik's Cube Solver](https://github.com/jack-tendy-538/Rubik_cube-jack.s_edition)  
 - 基于C++的魔方还原算法  
 - 支持3阶魔方实时状态解析  （待实现）
+[Stdio Game](https://github.com/Jack-tendy-538/PythonStdioGames)
+- example image:
+<img width="435" height="374" alt="new" src="https://github.com/user-attachments/assets/c1521c7e-5444-4e8d-a740-2ecb2ca4d56b" />
+
 
 ## 🌱 学习轨迹
 | 领域        | 当前目标               |
