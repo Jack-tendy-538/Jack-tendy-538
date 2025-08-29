@@ -2,9 +2,11 @@
 __注意！部分内容仅供娱乐__
 
 **湖南高中生开发者 | 用python解构世界**  
-> "在同学还在写作业时，我已开始构建自己的数字魔方"  
+> "在同学还在写作业时，我已开始构建自己的代码世界"  
 
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visual-studio-code)
+![Visual Studio 2022](https://img.shields.io/badge/IDE-Visual%20Studio%202022-5C2D91?logo=visual-studio&logoColor=white)
+
 
 ## 🎯 技术栈
 **主力语言**:  
@@ -16,9 +18,10 @@ __注意！部分内容仅供娱乐__
 
 ## 🧩 代表作
 [🔷 Rubik's Cube Solver](https://github.com/jack-tendy-538/Rubik_cube-jack.s_edition)  
-- 基于C++的魔方还原算法  
-- 支持3阶魔方实时状态解析  （待实现）
-[Stdio Game](https://github.com/Jack-tendy-538/PythonStdioGames)
+- 基于C++的魔方建模算法  
+
+[🧠 Stdio Game](https://github.com/Jack-tendy-538/PythonStdioGames)
+- 我的同学都爱玩！！！
 - example image:
 <img width="435" height="374" alt="new" src="https://github.com/user-attachments/assets/c1521c7e-5444-4e8d-a740-2ecb2ca4d56b" />
 
