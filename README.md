@@ -1,12 +1,11 @@
 # 👋 你好，我是 Jack-tendy！
 __注意！部分内容仅供娱乐__
 
-> Attention! 我们将于周四一模考试， 将暂停开发一周！
-> 想给star的就给star吧
-
 
 **湖南高中生开发者 | 用python解构世界**
 > "在同学还在写作业时，我已开始构建自己的代码世界"  
+
+__一模考完了!__ ~~但我才高二~~
 
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visual-studio-code)
 ![Visual Studio 2022](https://img.shields.io/badge/IDE-Visual%20Studio%202022-5C2D91?logo=visual-studio&logoColor=white)
