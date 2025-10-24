@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="https://github.com/Jack-tendy-538/html-illustrator/raw/refs/heads/main/static/std-stdio.js"></script>
+    <script type="text/javascript">
+        function onInput(form) {
+            let $form = $(form);
+            let $input = $form.find('input[name="input"]');
+            let input = $input.val().trim();
+            let co = $form.attr('co');
+            let $button = $form.find('button[type="submit"]');
+
+            // 检查输入是否为空
+            if (!input) {
+                $input.focus();
+                $input.css('background', '#ffecec');
+                return false;
+            }
+
+            $button.prop('disabled', true);
+
+            return input;
+        }
+
+    </script>
+</head>
+<body>
+    <div id="terminate" dir="rtl">
+        <input type="button" value="Close [Alt+C]" onclick="terminate()" accesskey="C" />
+    </div>
+    <div id="product" class="product">
+        <!--console operations here-->
+    </div>
+    <script>
+        printf('Hello, GitHub community!');
+        let usrname = scanf(`What's your name?`);
+        let is_prof = scanf(`Hello, ${usrname}! Are you a professional to programming?`);
+        if (is_prof.toLowerCase === 'yes') {
+            printf(`Wow, that's great!`);
+        } else {
+            printf(`Neither am I`)
+        }
+    </script>
+</body>
+</html>
