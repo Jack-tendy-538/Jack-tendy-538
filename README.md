@@ -6,4 +6,6 @@
 |  |
 | _注：【复刻拉工单】指GitHub上的fork, pull request与issue操作_ |
 
-~~什么玩意~~
+~~什么玩意~~或许这个奖杯已经说明了一切
+
+[![trophy](https://trophy.ryglcloud.net/?username=Jack-tendy-538&no-frame=true&title=Issues)](https://github.com/ryo-ma/github-profile-trophy)
