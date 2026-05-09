@@ -8,4 +8,4 @@
 
 ~~什么玩意~~或许这个奖杯已经说明了一切
 
-[![trophy](https://trophy.ryglcloud.net/?username=Jack-tendy-538&no-frame=true&title=Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=Jack-tendy-538&no-frame=true&rank=-C&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
